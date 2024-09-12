@@ -1,0 +1,11 @@
+.expenseForm {
+  position: relative;
+}
+
+.closeBtn {
+  background-color: rgb(255, 140, 0);
+  position: absolute;
+  bottom: 100%;
+  right: 0;
+
+}

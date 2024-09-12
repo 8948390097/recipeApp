@@ -1,0 +1,5 @@
+https://api.edamam.com/search?q=${value}&app_id=da3abaa1&app_key=3659cc011d784a728d550c44845bfe7f	
+
+appid = da3abaa1
+
+appkey -> 3659cc011d784a728d550c44845bfe7f	
