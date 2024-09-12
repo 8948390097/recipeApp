@@ -3,7 +3,7 @@ import React from 'react'
 const Counter = () => {
   return (
     <div>
-      tis is Counter
+      this is Counter
     </div>
   )
 }
